@@ -1,0 +1,42 @@
+Job 9001 started.
+Termination: Out of data.
+EM=1 (Out of data), IC=1, IR=GD20, TTC=2/10, LLC=0/5
+
+
+Job 9002 started.
+HELLO                                   
+Termination: Line limit exceeded.
+EM=2 (Line limit exceeded), IC=3, IR=PD20, TTC=4/10, LLC=2/1
+
+
+Job 9003 started.
+Termination: Time limit exceeded.
+EM=3 (Time limit exceeded), IC=1, IR=GD20, TTC=2/1, LLC=0/5
+
+
+Job 9004 started.
+Termination: Invalid page fault.
+EM=6 (Invalid page fault), IC=1, IR=XX20, TTC=0/10, LLC=0/5
+
+
+Job 9005 started.
+Termination: Operand error.
+EM=5 (Operand error), IC=1, IR=LRAB, TTC=0/10, LLC=0/5
+
+
+Job 9006 started.
+Termination: Operand error.
+EM=5 (Operand error), IC=1, IR=GDAB, TTC=0/10, LLC=0/5
+
+
+Job 9007 started.
+Termination: Invalid page fault.
+EM=6 (Invalid page fault), IC=1, IR=LR20, TTC=0/10, LLC=0/5
+
+
+Job 1002 started.
+MOS PHASE 2                             
+Termination: Normal termination.
+EM=0 (No error), IC=3, IR=H___, TTC=4/10, LLC=1/10
+
+
