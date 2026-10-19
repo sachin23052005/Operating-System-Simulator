@@ -1,0 +1,27 @@
+Job 0001 started.
+NOT SAME                                
+
+
+Job 0002 started.
+25 IS NOT GREATER                       
+
+
+Job 0003 started.
+I LIKE THIS PEN OF  HIS                 
+
+
+Job 0005 started.
+SAME                                    
+
+
+Job 0007 started.
+*                                       
+*   *                                   
+*   *   *                               
+*   *   *   *                           
+
+
+Job 0008 started.
+d   c   b   a                           
+
+
