@@ -1,6 +1,6 @@
 # 🖥️ Operating System Simulator
 
-> **C | Operating Systems | Memory Management | Paging | Instruction Execution | Interrupt Handling**
+> **C++ | Operating Systems | Memory Management | Paging | Instruction Execution | Interrupt Handling**
 
 An educational **Operating System Simulator implemented in C** as part of an Operating Systems course project.
 
@@ -93,7 +93,7 @@ The first phase implements a basic operating-system simulation using a simplifie
 
 The simulator represents memory using:
 
-```c
+```c++
 char M[100][4];
 ```
 
